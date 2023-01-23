@@ -1,5 +1,9 @@
 # Setup Instructions
 
+## Best Practices
+
+https://www.tatvasoft.com/blog/angular-optimization-and-best-practices/
+
 1. Add the following to VS Code `settings.json`:
 ```json
   "editor.codeActionsOnSave": {
