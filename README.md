@@ -7,7 +7,9 @@ https://www.tatvasoft.com/blog/angular-optimization-and-best-practices/
 1. Add the following to VS Code `settings.json`:
 ```json
   "editor.codeActionsOnSave": {
-    "source.fixAll.eslint": true
+    "source.fixAll.eslint": true,
+    "source.organizeImports": true
+
   }
 ```
 2. Install ESLint Extension
